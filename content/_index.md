@@ -7,28 +7,19 @@ Hi, I'm Raphaël and you happened to stumble upon my personal website :)
 
 ## About me
 
-I'm currently an engineer at University of Strasbourg (France), working on the
-[Microcard](https://microcard.eu) European project.
+I am currently doing a PhD in computer science in the
+[ICPS team of the ICube laboratory](https://icps.icube.unistra.fr/).
+
+I work on compiler optimizations and speculative runtime code transformations,
+more specifically on the subject of **multi-versioning**. That means,
+selecting the best performing version of a given program in a given
+execution context.
 
 This site can be for professional stuff, but also personal and
 wathever-goes-through-my-mind stuff.
 
-I'll probably write a bit about things I like, which will most likely involve
-computers or music (metal of the thrash variety as you can probably guess from
-the photo).
+I like computers, music (especially of the metal variety), singing karaoke and
+beer.
 
-## Music
-
-Music-wise, my favorite bands include, but are not limited to (order is not
-important but number of occurences is):
-
-- Megadeth
-- Megadeth
-- Megadeth
-- Municipal Waste
-- Gama Bomb
-- MAXIMUM THE HORMONE
-- Suicidal Tendencies
-- Testament
-- Lost Society (pre-treason)
-- Gloryhammer !!1!!!!1!
+I'm the guitar player in a small french thrash metal band called **Kernel Panik**
+(I am very happy with that name). You can find our music [here](https://soundcloud.com/kernel-panik).
