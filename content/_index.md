@@ -5,6 +5,8 @@ title = "Raphaël Colin's personal website"
 
 Hi, I'm Raphaël and you happened to stumble upon my personal website :)
 
+  <img src="photo.jpg" width=50% class="floating_img_right"/>
+
 ## About me
 
 I am currently doing a PhD in computer science in the
