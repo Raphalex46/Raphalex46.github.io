@@ -22,11 +22,10 @@ twitter_card = false
 list_pages = true
 favicon = "favicon.ico"
 
-[[extra.header_nav]]
-en = { name = "| home |", url = "/" }
-
-[[extra.header_nav]]
-en = { name = "| blog |", url = "/blog" }
+header_nav = [
+  { url = "/", name_en = "| home |" },
+  { url = "/blog", name_en = "| blog |" }
+]
 
 [slugify]
 paths = "on"
