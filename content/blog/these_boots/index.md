@@ -1,5 +1,5 @@
 +++
-title = "These Boots Are Made For Walkin'"
+title = "These Boots - When censorship adds a new dimension to music"
 transparent = true
 render = true
 +++
@@ -7,6 +7,15 @@ render = true
 I remember the first time I heard Megadeth's cover of "**These Boots Are Made
 for Walkin'**" from their first album "**Killing Is My Business... And Business
 Is Good!**".
+
+<figure class="centered">
+<img src="kimb.jpg" class="centered_img"
+     alt="Killing Is My Business original album cover"
+/>
+<figcaption class="caption">Killing Is My Business original album cover.<figcaption/>
+</figure>
+
+### The song and its versions
 
 It was the version on Spotify at the time (which has now been removed in favor
 of the 2018 remaster). I was completely caught off-guard by the sudden bleeping
@@ -31,24 +40,83 @@ and a new guitarist.
 The song itself is absolutely great. It's simply the original song, infused
 with **Killing Is My Business** energy. I love the bass line and the raw energy
 of the lead parts is pure 80s Megadeth. It's fast and raw, it's simply perfect.
-The lyrics, in classic Megadeth fashion, have been changed to be more vulgar,
+The lyrics, in classic Megadeth fashion, have been altered to be more vulgar,
 some would say _immature_.<br/>
 This is how "_something you call love but confess_"
 became "_something you call love but I call sex_", and how "_and now someone else
 is getting all your best_" became "_and now someone else can kiss your ass_".
 
 The song — especially the bleeped version — has been living rent-free in my
-head ever since. I'll first explain how the bleeped version came into existence,
+head ever since. I'll first explain why the bleeped version came into existence,
 and then why I find it so great.
+
+### Lee Hazlewood "controversy"
 
 The guy who wrote the song, Lee Hazlewood, didn't find the _immature_ take to
 be funny, but apparently found it "vile and offensive"[^2].<br/>
-Threatened by legal action the band decided to release the bleeped version in
-the 2002 remaster of the album.
 
+Threatened by legal action, the band didn't decide to exclude the song from
+the 2002 remaster of their debut album, they also didn't decide to re-record
+the song with the unaltered lyrics, or to simply mute the offending parts. <br/>
+All of these options would have been perfectly fine, but this is Megadeth we're
+talking about, and their choice was to make the infamous bleeped version.
+
+They did finally re-record a version with unaltered lyrics on the 2018 remaster
+of the album. They kind of managed to mix Dave Mustaine's current voice with
+his 80s voice from the original recording. It's kind of weird and it kind
+of works at the same time in my opinion, but let's not lose track of our main
+subject here.
+
+Even though it was the first time, it wouldn't be the only time Megadeth
+created a cover featuring altered lyrics.
+
+### Other Megadeth covers at the time
 By the time Hazlewood realized that he hated the Megadeth version, Megadeth had
-already done other covers in their own style in their 2nd and 3rd albums.<br/>
-"**I Ain't Superstitious**", covered in "**Peace Sells **"
+already done other covers in their own style in their 2nd and 3rd albums.
 
+"**I Ain't Superstitious**", covered in "**Peace Sells... But Who's Buying?**",
+is another great Megadeth-infused track, with crazy alternating guitar solos
+and altered lyrics,
+that the original artist — Willie Dixon — apparently found to be great[^3].
+
+Their next album, "**So Far, So Good... So What!**", features a cover of the
+**Sex Pistols** song "**Anarchy In The U.K.**", also with altered lyrics.
+The altered lyrics in this one are actually a consequence of the band just
+guessing the lyrics from the recording.<br/>
+Even though they managed to get Steve Jones to play on the track, it didn't
+stop the singer of the Sex Pistols from saying the cover was "a bunch of
+rubbish"[^4]. It apparently wasn't bad enough rubbish to make them want to
+take legal action against Mustaine's crew though...
+
+I don't know why Hazlewood was so mad that he thought the cover deserved to
+be wiped from existence, but I'm kind of glad that he did, as I will try to
+explain.
+
+### Why I love the censored version
+
+I mentioned earlier that Megadeth could have chosen to do a number of things
+in response to the legal threats: removing the song, muting parts of the lyrics,
+changing the lyrics... And those options are actually what's often done
+in music censorship. For example **Boris Vian**'s song, "**Le Déserteur**"
+has had its lyrics altered, _and_ was banned for a while[^5].
+
+They decided to bleep the altered parts of the lyrics, and I will try to
+explain here why I think this is an interesting artistic decision. Keep in mind
+that I don't know _precisely_ why the band chose to do things that way, this is
+just my interpretation on why I find it great.
+
+#### Protesting censorship
+
+I think the main reason they decided to go for this approach is to make fun of
+music censorship. Adding huge bleeps in the middle of a song is absolutely
+ridiculous. Somehow, it's sounds even more ridiculous when it's part of the mix
+like in our case (the whole track isn't censored, only the vocals). If Lee
+Hazlewood thought that the cover was a perversion of the original, adding bleeps
+in the middle of the lyrics doesn't seem like a way to restore its purity.
+
+---
 [^1]: <https://www.sonicperspectives.com/news/former-megadeth-members-unite-to-honor-the-legacy-of-drummer-gar-samuelson/>
 [^2]: <https://blabbermouth.net/news/megadeth-s-killing-is-my-business-digipack-lp-miniature-cd-available> (I couldn't actually find the original source for this).
+[^3]: <https://www.revolvermag.com/music/10-things-you-didnt-know-about-megadeths-peace-sells-whos-buying/> (I couldn't find the direct source for that either)
+[^4]: <https://www.ultimate-guitar.com/news/general_music_news/david_ellefson_recalls_sex_pistols_frontman_calling_megadeths_anarchy_in_the_uk_cover_bunch_of_rubbish_talks_how_guitarist_steve_jones_behaved_during_collab.html>
+[^5]: <https://en.wikipedia.org/wiki/Le_D%C3%A9serteur_(song)>
