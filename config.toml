@@ -21,6 +21,8 @@ highlight_code = true
 twitter_card = false
 list_pages = true
 favicon = "favicon.ico"
+display_author = true
+author = "Raphaël Colin"
 
 header_nav = [
   { url = "/", name_en = "| home |" },
