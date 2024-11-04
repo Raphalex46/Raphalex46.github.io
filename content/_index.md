@@ -17,11 +17,19 @@ more specifically on the subject of **multi-versioning**. That means,
 selecting the best performing version of a given program in a given
 execution context.
 
-This site can be for professional stuff, but also personal and
-wathever-goes-through-my-mind stuff.
-
 I like computers, music (especially of the metal variety), singing karaoke and
 beer.
 
 I'm the guitar player in a small french thrash metal band called **Kernel Panik**
 (I am very happy with that name). You can find our music [here](https://soundcloud.com/kernel-panik).
+
+### Blog
+
+You can find my blog [here](blog) where I write about whatever topic I find
+interesting at the moment (provided I have enough motivation to write).
+
+### Contact
+
+You can contact me on
+[LinkedIn](https://www.linkedin.com/in/rapha%C3%ABl-colin-38a455221/) (I'm not
+really sure about having my e-mail address in public).
