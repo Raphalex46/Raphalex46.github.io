@@ -21,7 +21,8 @@ I like computers, music (especially of the metal variety), singing karaoke and
 beer.
 
 I'm the guitar player in a small french thrash metal band called **Kernel Panik**
-(I am very happy with that name). You can find our music [here](https://soundcloud.com/kernel-panik).
+(I am very happy with that name). You can find our music [here](https://soundcloud.com/kernel-panik) and
+follow us on Instagram [here](https://www.instagram.com/kernel_panik_thrash/).
 
 ### Blog
 
