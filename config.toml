@@ -11,10 +11,18 @@ build_search_index = false
 
 author = "Raphaël Colin"
 
+default_language = "en"
+
 [markdown]
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
 highlight_code = true
+
+[languages.en]
+build_search_index = false
+
+[languages.fr]
+build_search_index = false
 
 [extra]
 # Put all your custom variables here
@@ -25,8 +33,10 @@ display_author = true
 author = "Raphaël Colin"
 
 header_nav = [
-  { url = "/", name_en = "| home |" },
-  { url = "/blog", name_en = "| blog |" }
+  { url = "/", name_en = "| home |", name_fr = "" },
+  { url = "/fr", name_fr = "| accueil |", name_en = ""},
+  { url = "/blog", name_en = "| blog |", name_fr = ""},
+  { url = "/fr/blog", name_fr = "| blog |", name_en = ""},
 ]
 
 [slugify]
