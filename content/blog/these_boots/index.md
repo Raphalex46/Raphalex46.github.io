@@ -110,8 +110,8 @@ just my interpretation on why I find it great.
 
 I think the main reason they decided to go for this approach is to make fun of
 music censorship. Adding huge bleeps in the middle of a song is absolutely
-ridiculous. Somehow, it's sounds even more ridiculous when it's part of the mix
-like in our case (the whole track isn't censored, only the vocals). If Lee
+ridiculous. Somehow, it sounds even more ridiculous when it's part of the mix
+like in this case (the whole track isn't censored, only the vocals). If Lee
 Hazlewood thought that the cover was a perversion of the original, adding bleeps
 in the middle of the lyrics doesn't seem like a way to restore its purity.
 If anything, it makes the song even more _vile_.<br/>
