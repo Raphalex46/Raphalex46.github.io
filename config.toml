@@ -20,9 +20,11 @@ highlight_code = true
 
 [languages.en]
 build_search_index = false
+title = "Raphaël Colin"
 
 [languages.fr]
 build_search_index = false
+title = "Raphaël Colin"
 
 [extra]
 # Put all your custom variables here
