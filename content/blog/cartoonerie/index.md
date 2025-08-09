@@ -25,8 +25,8 @@ the tool to HTML5? Perfect for an internship!
 When searching for it, I stumbled upon forum posts on _La Cartoonerie_,
 discussing the end of Flash, and how to deal with it. To my horror, people were
 saying that the owners of the website basically went away with the key, and it
-was impossible for people to make a transition to HTML5 because they had no
-access to the code, and couldn't inherit the ownership of the site.
+was impossible for these users to make a transition to HTML5 because they had
+no access to the code, and couldn't inherit the ownership of the site.
 
 Most of the users in this forum post were people who had discovered the website
 when they were a child, but then kept returning to it and creating new things.
@@ -41,8 +41,9 @@ rediscovering _La Cartoonerie_ during this specific period, this post is not
 about the death of web tools and games and how to preserve them and keep them
 usable in the long run. I could also write about this topic, but I'm sure
 others have already said a lot of interesting things about it. The rest of this
-blog post is actually about creation games (I believe the frontier is quite
-blurry), using _La Cartoonerie_ as a kind of reference point.
+blog post is actually about creation games (or tools, as I believe the line
+between them and actual tools is quite blurry), using _La Cartoonerie_ as a
+kind of reference point.
 
 ### La Cartoonerie itself
 
@@ -77,7 +78,8 @@ remember a series named "Lonely Vampire" which you can find on Youtube. It
 looks pretty cheap when watching it now, but trust me, making these animations
 must have taken the author countless hours given the tools available, and when
 I was a kid, I couldn't imagine ever being able to do something like that (I
-still don't).
+still don't). I will talk about this specific aspect of _La Cartoonerie_ and
+creation games in general in another section.
 
 But the real **heart** of this website was the cartoon editor. It's made with
 Flash, so it is laggy, and it gets more and more laggy as you add stuff to the
@@ -142,7 +144,7 @@ possibilities these in-game editors provide. We could also mention
 _Couter Strike_ which was originally a mod of _Half Life_, but since
 this is a mod, I believe it's a little different to something made
 entirely in an in-game editor. These games with incredibly advanced editors
-close the gap to creation games, but with that said, I think it would
+close the gap to creation games, but with that said, it would
 be a stretch to call them creation games, because the main focus
 of these games, their goal, is not creation. These games were made
 as strategy games, their whole purpose is not about creating and sharing
@@ -213,7 +215,84 @@ to my last point.
 
 ### Language and "metagame" in creation games
 
-In this last section
+In this last section, I want to talk about the _language_ of creation games.
+Since creation games provide their own specific tools that the users must use,
+they become kind of a unique vocabulary.
+
+I explained in the last section that I believe _La Cartoonerie_ sits in a sweet
+spot in terms of complexity and features. This also makes its _language_ the
+most interesting out of our three examples. Since _Flipnote_ simply relies on
+the user's drawing skills for making nice animations, its language is quite
+limited. The defining features of _Flipnote_'s language are probably the
+limited colors and brushes available, and the audio which is always recorded
+through the console's microphone. For _Dreams_, I would argue that it offers so
+many features that its language is too complex. You can see that a game was
+made in _Dreams_ when you play it, but it's very difficult to figure out
+exactly how the creator has made it. _La Cartoonerie_, sitting in the sweet
+spot of complexity and features offers the most balanced language for a
+creation game out of the three I presented.
+
+Most people who watch movies are not movie directors, and most people who read
+books are not writers themselves. However, most people watching cartoons on _La
+Cartoonerie_ have tried to make one themselves because it's the whole purpose
+of the website. A director watching a movie will probably think about it in a
+very different way compared to someone who has never touched a camera. The same
+goes for these cartoons: when you know how the characters are made and how the
+editor works, you can understand how the creator made certain effects, you can
+get an idea of the tricks they used when they inevitably have to go beyond the
+limitations of the tool. Maybe they used a built-in object from the game but
+changed its color and scaled it so that it looks like something else.
+
+Going back to "Lonely Vampire", I don't remember details of the story or
+characters, but I do remember some of the tricks used in the show. For example,
+in the first episode, the main character looks at a photograph of her mother.
+But the photograph is, of course, just a scaled down version of an actual
+character, and since there is no way of stopping the character from blinking
+automatically, the person in the photograph blinks. It looks a bit stupid, but
+it's a detail that you can understand only if you played around with the editor
+yourself. The blinking character is in the end an artifact resulting from the
+limitations of the editor, but these limitations are much more interesting when
+they force the authors to make creative decisions to go around them. I remember
+thinking "wow, that must be so hard!" when seeing cartoons with actual animated
+fingers: since the characters have no fingers but just have a ball for a hand,
+the cartoon creators had to come up with a solution which usually involved
+scaled rectangles making up the phalanges.
+
+### Leaving no one behind
+
+I wanted to write this post about creation games to highlight their most
+interesting aspect in my opinion: allowing everybody to create art (games,
+animation, music, etc.). I wanted to show that the accomplishment of this goal
+depends greatly on the subtle balance of complexity and features that are
+provided in the game (or tool), this fine balance is what makes it really hard
+to make a great creation game. I took _La Cartoonerie_ as an example because I
+believe it is (was) a well balanced creation game, but also because it's a
+part of my childhood and French internet history, and I wanted to pay some sort
+of homage to it. That being said, _Flipnote_ and _Dreams_ are great creation
+games in their own right: they are pretty well balanced in the sense that they
+are much easier to use for people who know nothing about game development or
+animation than "real" animation software or "real" game engines. I think
+_La Cartoonerie_ achieves a slightly better balance, and thus is able
+(in theory) to reach more people (obviously, in practice it didn't).
+
+The design choices of the creation game are what leads to its specific
+_language_. When the balance of features / complexity is done correctly, it
+means that more people can engage in the creation tool, and the language
+grows in significance and importance within the ecosystem of the game.
+_Flipnote_ and _Dreams_ obviously have their own language as well (i.e. the
+limited colors in _Flipnote_), but in the case of _Flipnote_, its simplicity
+makes the language closer to the language of hand-drawn animations, while
+the language of _Dreams_ is specific to _Dreams_, but it's so large that
+it makes it much harder to engage with.
+
+In the end, creation games give us a glimpse of a world where everyone watching
+a movie is a director, where everyone playing a game is a game designer. They
+create a small bubble with its own language, limiting the amount of things that
+can be done, but making the amount of knowledge needed for a deeper
+understanding of the creations much lower than in the "real world". A good
+creation game leaves no one behind when it comes to their own creations and
+deeper understanding of the creations of others, and that's what makes them
+special.
 
 ---
 [^1]: [_La Cartoonerie_ archived page](https://web.archive.org/web/20070206105413/http://www.lacartoonerie.com/home/pages/about_presentation.php).
