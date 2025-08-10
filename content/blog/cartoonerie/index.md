@@ -1,6 +1,6 @@
 +++
 title = "La Cartoonerie - A look at creation games and their unique language"
-date = 2024-12-12
+date = 2025-08-10
 author = "Raphaël Colin"
 +++
 
