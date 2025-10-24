@@ -1,0 +1,23 @@
+.floating_img_right {
+  margin-left: 20px;
+  float: right;
+}
+
+.centered {
+  margin: auto;
+  display: block;
+  width: 80%;
+}
+
+.centered_img {
+  margin: auto;
+  display: block;
+  width: 50%;
+}
+
+.caption {
+  margin: auto;
+  display: block;
+  left: 50%;
+  text-align: center;
+}
