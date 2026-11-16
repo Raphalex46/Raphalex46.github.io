@@ -2,7 +2,7 @@
 title = "Raphaël Colin's personal website"
 +++
 
-# Comment vous êtes-vous retrouvés ici ?
+# Comment vous êtes-vous retrouvés ici ?
 
 Bonjour, je suis Raphaël, et il se trouve que vous êtes tombés sur mon site perso :)
 
