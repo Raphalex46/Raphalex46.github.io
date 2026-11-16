@@ -17,8 +17,7 @@ more specifically on the subject of **multi-versioning**. That means,
 selecting the best performing version of a given program in a given
 execution context.
 
-I like computers, music (especially of the metal variety), singing karaoke and
-beer.
+I like computers, music (especially of the metal variety), singing karaoke and many other things!
 
 ### Music
 
